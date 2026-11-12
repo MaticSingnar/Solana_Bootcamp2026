@@ -144,16 +144,3 @@ For the final submission, add the specific Devnet transaction links for the Trea
 - Add a frontend dashboard if required by the capstone evaluation; the current interaction surface is the Solana Playground TypeScript client.
 - Before any mainnet use, obtain an independent security review, test edge cases, define upgrade governance, and reassess rent, fees, token compatibility, and operational controls.
 
-## Submission checklist
-
-- [x] Anchor program builds successfully in Solana Playground.
-- [x] Program deployment completed on Devnet.
-- [x] Eight SOL/admin tests passed.
-- [x] Four SPL-token tests passed.
-- [x] Client displayed SOL and SP balances.
-- [x] Treasury Manager SP deposit demonstrated.
-- [x] Treasury Manager SP withdrawal demonstrated.
-- [ ] Add final Devnet transaction links for deposit and withdrawal.
-- [ ] Capture final screenshots: deployment, 12 passing tests, deposit, withdrawal, and final balances.
-- [ ] Add a short demo video showing the client and Explorer verification.
-- [ ] Attach this README and the source files to the capstone submission.
